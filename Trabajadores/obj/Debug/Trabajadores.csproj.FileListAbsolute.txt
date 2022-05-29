@@ -1,0 +1,13 @@
+C:\Users\Kevin\Documents\Trabajadores\Trabajadores\bin\Debug\Trabajadores.exe.config
+C:\Users\Kevin\Documents\Trabajadores\Trabajadores\bin\Debug\Trabajadores.exe
+C:\Users\Kevin\Documents\Trabajadores\Trabajadores\bin\Debug\Trabajadores.pdb
+C:\Users\Kevin\Documents\Trabajadores\Trabajadores\obj\Debug\Trabajadores.csproj.AssemblyReference.cache
+C:\Users\Kevin\Documents\Trabajadores\Trabajadores\obj\Debug\Trabajadores.Form1.resources
+C:\Users\Kevin\Documents\Trabajadores\Trabajadores\obj\Debug\Trabajadores.Properties.Resources.resources
+C:\Users\Kevin\Documents\Trabajadores\Trabajadores\obj\Debug\Trabajadores.csproj.GenerateResource.cache
+C:\Users\Kevin\Documents\Trabajadores\Trabajadores\obj\Debug\Trabajadores.csproj.CoreCompileInputs.cache
+C:\Users\Kevin\Documents\Trabajadores\Trabajadores\obj\Debug\Trabajadores.exe
+C:\Users\Kevin\Documents\Trabajadores\Trabajadores\obj\Debug\Trabajadores.pdb
+C:\Users\Kevin\Documents\Trabajadores\Trabajadores\bin\Debug\EntityFramework.dll
+C:\Users\Kevin\Documents\Trabajadores\Trabajadores\bin\Debug\EntityFramework.xml
+C:\Users\Kevin\Documents\Trabajadores\Trabajadores\obj\Debug\Trabajadores.csproj.CopyComplete
